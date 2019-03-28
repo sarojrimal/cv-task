@@ -1,0 +1,28 @@
+body{
+	background-image:url("bg.png");
+	
+	
+}
+
+h1{
+	text-align:center;
+	color:bold black ;
+	
+
+	
+}
+
+h3{
+	background-color:gray;
+	
+}
+
+img{
+	margin-left:90px;
+	width:1200;
+	height:1200;
+	border:2px solid black;
+	border-radiud:10px;
+	
+}
+
